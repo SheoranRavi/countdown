@@ -12,7 +12,7 @@ function App() {
 		<Paper elevation={10}
       sx={{
         maxWidth: "100vw",
-        backgroundImage: "url(src/assets/boat.jpeg)",
+        backgroundImage: "url(boat.jpeg)",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}>
@@ -24,7 +24,7 @@ function App() {
         padding: "1px",
         width: "100%",
       }}>
-          <img src="src/assets/WhatsApp Image 2024-09-13 at 12.02.51 AM.jpeg" alt="Wedding"
+          <img src="WhatsApp Image 2024-09-13 at 12.02.51 AM.jpeg" alt="Wedding"
           style={{
             maxHeight: '20vh',
             objectFit: 'contain',
@@ -59,7 +59,7 @@ function App() {
             Wedding Countdown
           </Typography>
         </Box>
-          <img src="src/assets/WhatsApp Image 2024-09-13 at 12.03.58 AM.jpeg" alt="Wedding"
+          <img src="WhatsApp Image 2024-09-13 at 12.03.58 AM.jpeg" alt="Wedding"
           style={{
             maxHeight: '20vh',
             objectFit: 'contain',
