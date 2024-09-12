@@ -1,5 +1,4 @@
 import './App.css'
-import Grid from '@mui/material/Grid2';
 import Paper from '@mui/material/Paper';
 import Box from '@mui/material/Box';
 import CountdownTimer from './components/CountdownTimer/CountdownTimer';
